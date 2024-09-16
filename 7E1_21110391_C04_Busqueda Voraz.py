@@ -1,3 +1,11 @@
+"""
+Sistemas Expertos
+Profesor: Mauricio Alejandro Cabrera Arellano
+Alumno: Omar Josue Munguia Camacho
+Registro: 21110391
+Grupo: 7E1
+"""
+
 import matplotlib.pyplot as plt
 import networkx as nx
 import heapq
